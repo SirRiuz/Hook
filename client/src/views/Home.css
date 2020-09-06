@@ -1,0 +1,16 @@
+
+
+body{
+    margin:0;
+    padding: 0;
+}
+
+
+@media only screen and (max-width: 1022px) {
+    .box-actions{
+        display: none;
+    }
+    .box-actions{
+        display: none;
+    }
+}

@@ -1,0 +1,16 @@
+
+body{
+    font-family: Segoe UI,Frutiger,Frutiger Linotype,Dejavu Sans,Helvetica Neue,Arial,sans-serif; 
+
+}
+
+.nav{
+    position: fixed;
+    top: 0;
+    left: 0;
+    background: white;
+    width: 100%;
+    /* border-bottom: solid 2px rgba(73, 78, 82, 0.099);*/
+    padding: 10px;
+    opacity: 0.899;
+}

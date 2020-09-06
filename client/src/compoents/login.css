@@ -1,0 +1,21 @@
+
+
+
+.login-container{
+    background: white;
+    padding: 15px;
+    border-radius: 10px;
+    margin:60px auto;
+    box-shadow: -11px 1px 50px rgba(0,0,0,0.05);
+}
+
+
+.form-container{
+    width: 90%;
+    margin: 0px auto;
+}
+
+
+.input-container{
+    margin-bottom: 20px;
+}

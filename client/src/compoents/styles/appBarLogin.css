@@ -1,0 +1,27 @@
+
+.search-imput{
+    background: rgba(0, 0,0 ,0.09);
+    border-radius: 100px;
+    padding: 2px;
+    padding-left: 15px;
+    color: red;
+    /* padding-right: 200px; */
+    padding-right: 50px;
+}
+
+
+.icon-container{
+    padding-right: 15px;
+    text-align: center;
+}
+
+
+.appbar{
+    border-radius: 5px;
+}
+
+
+.box-y{
+    background: red;
+    width: auto;
+}
